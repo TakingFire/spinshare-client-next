@@ -183,6 +183,7 @@
   },
   "library": {
     "header": "Library",
+    "updateAll": "Update All ({count})",
     "open": "Open",
     "rebuild": "Rebuild",
     "noCharts": "No charts found. Rebuild the cache or download charts."
